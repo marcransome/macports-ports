@@ -13,7 +13,7 @@ license             MIT
 maintainers         marcransome
 
 description         Command-line tool for sending log messages to Apple's unified logging system
-long_description
+long_description    flog is used to write log messages to Apple's unified logging system on macOS. It supports the full set of log levels, arbitrary category and subsystem names, and private messsage strings. 
 
 homepage            https://github.com/marcransome/flog
 
